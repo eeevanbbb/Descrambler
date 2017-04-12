@@ -1,0 +1,30 @@
+PODS:
+  - IHKeyboardAvoiding (3.7)
+  - SnapKit (3.2.0)
+  - Static (2.0.1)
+  - SwiftyUserDefaults (3.0.0)
+
+DEPENDENCIES:
+  - IHKeyboardAvoiding
+  - SnapKit (~> 3.2.0)
+  - Static (from `https://github.com/venmo/Static`)
+  - SwiftyUserDefaults
+
+EXTERNAL SOURCES:
+  Static:
+    :git: https://github.com/venmo/Static
+
+CHECKOUT OPTIONS:
+  Static:
+    :commit: 321e997b9c2edc5d38aa0b007f2861ba457f13ed
+    :git: https://github.com/venmo/Static
+
+SPEC CHECKSUMS:
+  IHKeyboardAvoiding: 4c852fae85667469307678c65f14f5cac8a7be92
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  Static: a8675f1e49645ab7ed12b2677aeae22f973d6a2e
+  SwiftyUserDefaults: 0f1d45fc3aafb9064dac661e367f8f83fe21a4b4
+
+PODFILE CHECKSUM: a08486587903013af093f46cbfd47b9040621e49
+
+COCOAPODS: 1.2.0

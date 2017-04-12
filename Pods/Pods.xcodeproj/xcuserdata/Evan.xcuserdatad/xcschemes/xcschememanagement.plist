@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IHKeyboardAvoiding.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Descrambler.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SnapKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Static.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyUserDefaults.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>033B2F5EFC98402794E5FA4A2E42BD9F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>21F5D5A108B2D3C71A71A9E7D221CD32</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6D5E6BEFAC41E3EBEBCAD68D456ADFD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BE4A37AD41F4AFD1523EF87C8FAB6658</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E53BE3AB5FC7521FC5CF4BD05F449A60</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
